@@ -1,0 +1,5 @@
+C:\TestProjects\PlaywrightTests\obj\Debug\net6.0\PlaywrightTests.csproj.AssemblyReference.cache
+C:\TestProjects\PlaywrightTests\obj\Debug\net6.0\PlaywrightTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestProjects\PlaywrightTests\obj\Debug\net6.0\PlaywrightTests.AssemblyInfoInputs.cache
+C:\TestProjects\PlaywrightTests\obj\Debug\net6.0\PlaywrightTests.AssemblyInfo.cs
+C:\TestProjects\PlaywrightTests\obj\Debug\net6.0\PlaywrightTests.csproj.CoreCompileInputs.cache

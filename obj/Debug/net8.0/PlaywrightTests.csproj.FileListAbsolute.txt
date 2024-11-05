@@ -1,0 +1,589 @@
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\testhost.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\nunit.framework.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.csproj.AssemblyReference.cache
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.AssemblyInfoInputs.cache
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.AssemblyInfo.cs
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.csproj.CoreCompileInputs.cache
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.dll
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\refint\PlaywrightTests.dll
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.pdb
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\testhost.exe
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\nunit.engine.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\PlaywrightTests.deps.json
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\PlaywrightTests.runtimeconfig.json
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\PlaywrightTests.dll
+C:\Test Projects\PlaywrightTests\bin\Debug\net8.0\PlaywrightTests.pdb
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\Playwrig.3B805853.Up2Date
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.genruntimeconfig.cache
+C:\Test Projects\PlaywrightTests\obj\Debug\net8.0\ref\PlaywrightTests.dll
+C:\TestProjects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.csproj.AssemblyReference.cache
+C:\TestProjects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestProjects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.AssemblyInfoInputs.cache
+C:\TestProjects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.AssemblyInfo.cs
+C:\TestProjects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.csproj.CoreCompileInputs.cache
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\testhost.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\testhost.exe
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\node\win32_x64\node.exe
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\node\LICENSE
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\api.json
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\install_media_pack.ps1
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\PrintDeps.exe
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\README.md
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_linux.sh
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_mac.sh
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_win.ps1
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_linux.sh
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_mac.sh
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_win.ps1
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_linux.sh
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_mac.sh
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_win.ps1
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_linux.sh
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_mac.sh
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_win.ps1
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_linux.sh
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_mac.sh
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_win.ps1
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\browsers.json
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\cli.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\index.d.ts
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\index.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\index.mjs
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\androidServerImpl.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\browserServerImpl.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\accessibility.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\android.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\api.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\artifact.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\browser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\browserContext.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\browserType.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\cdpSession.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\channelOwner.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\clientHelper.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\clientInstrumentation.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\clock.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\connection.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\consoleMessage.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\coverage.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\dialog.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\download.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\electron.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\elementHandle.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\errors.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\eventEmitter.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\events.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\fetch.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\fileChooser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\frame.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\harRouter.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\input.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\jsHandle.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\jsonPipe.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\localUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\locator.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\network.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\page.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\playwright.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\selectors.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\stream.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\tracing.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\types.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\video.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\waiter.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\webError.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\worker.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\client\writableStream.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\cli\driver.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\cli\program.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\cli\programWithTestStub.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\common\socksProxy.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\common\timeoutSettings.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\common\types.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\generated\clockSource.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\generated\consoleApiSource.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\generated\injectedScriptSource.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\generated\pollingRecorderSource.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\generated\utilityScriptSource.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\generated\webSocketMockSource.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\image_tools\colorUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\image_tools\compare.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\image_tools\imageChannel.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\image_tools\stats.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\inprocess.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\inProcessFactory.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\outofprocess.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\protocol\debug.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\protocol\serializers.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\protocol\transport.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\protocol\validator.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\protocol\validatorPrimitives.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\remote\playwrightConnection.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\remote\playwrightServer.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\accessibility.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\android\android.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\android\backendAdb.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\artifact.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\bidiBrowser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\bidiChromium.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\bidiConnection.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\bidiExecutionContext.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\bidiFirefox.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\bidiInput.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\bidiNetworkManager.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\bidiOverCdp.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\bidiPage.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\bidiPdf.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\third_party\bidiDeserializer.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\third_party\bidiKeyboard.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\third_party\bidiProtocol.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\third_party\bidiSerializer.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\bidi\third_party\firefoxPrefs.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\browser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\browserContext.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\browserType.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\appIcon.png
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\chromium.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\chromiumSwitches.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crAccessibility.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crBrowser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crConnection.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crCoverage.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crDevTools.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crDragDrop.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crExecutionContext.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crInput.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crNetworkManager.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crPage.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crPdf.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crProtocolHelper.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crServiceWorker.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\defaultFontFamilies.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\chromium\videoRecorder.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\clock.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\codegen\csharp.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\codegen\java.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\codegen\javascript.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\codegen\jsonl.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\codegen\language.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\codegen\languages.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\codegen\python.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\codegen\types.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\console.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\cookieStore.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\debugController.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\debugger.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\deviceDescriptors.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\deviceDescriptorsSource.json
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dialog.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\androidDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\artifactDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserContextDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserTypeDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\cdpSessionDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\debugControllerDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\dialogDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\dispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\electronDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\elementHandlerDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\frameDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\jsHandleDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\jsonPipeDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\localUtilsDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\networkDispatchers.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\pageDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\playwrightDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\selectorsDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\streamDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\tracingDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\webSocketRouteDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\writableStreamDispatcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\dom.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\download.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\electron\electron.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\electron\loader.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\errors.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\fetch.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\fileChooser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\fileUploadUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffAccessibility.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffBrowser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffConnection.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffExecutionContext.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffInput.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffNetworkManager.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffPage.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\firefox\firefox.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\formData.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\frames.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\frameSelectors.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\har\harRecorder.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\har\harTracer.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\helper.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\index.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\input.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\instrumentation.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\utilityScriptSerializers.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\javascript.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\launchApp.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\macEditingCommands.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\network.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\page.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\pipeTransport.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\playwright.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\progress.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\protocolError.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\recorder.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\recorder\contextRecorder.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderApp.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderCollection.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderFrontend.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderInTraceViewer.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderRunner.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\recorder\throttledFile.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\registry\browserFetcher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\registry\dependencies.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\registry\index.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\registry\nativeDeps.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\registry\oopDownloadBrowserMain.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\screenshotter.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\selectors.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\socksClientCertificatesInterceptor.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\socksInterceptor.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\snapshotter.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\snapshotterInjected.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\tracing.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\trace\test\inMemorySnapshotter.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\trace\viewer\traceViewer.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\transport.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\types.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\usKeyboardLayout.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\webkit\webkit.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkAccessibility.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkBrowser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkConnection.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkExecutionContext.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkInput.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkInterceptableRequest.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkPage.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkProvisionalPage.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkWorkers.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\third_party\diff_match_patch.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\third_party\pixelmatch.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utilsBundle.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utilsBundleImpl\index.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utilsBundleImpl\xdg-open
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\ascii.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\comparators.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\crypto.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\debug.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\debugLogger.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\env.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\eventsHelper.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\expectUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\fileUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\happy-eyeballs.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\headers.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\hostPlatform.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\httpServer.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\index.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\cssParser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\cssTokenizer.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\locatorGenerators.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\locatorParser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\locatorUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\mimeType.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\recorderUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\selectorParser.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\stringUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\traceUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\urlMatch.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\linuxUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\manualPromise.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\multimap.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\network.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\processLauncher.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\profiler.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\rtti.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\semaphore.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\spawnAsync.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\stackTrace.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\task.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\time.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\timeoutRunner.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\traceUtils.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\userAgent.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\wsServer.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\zipFile.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\utils\zones.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\htmlReport\index.html
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\codeMirrorModule-CR6kB851.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\codeMirrorModule-ez37Vkbh.css
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\codicon-DCmgc-ay.ttf
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\index-BcaUAUCW.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\assets\index-BW-aOBcL.css
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\index.html
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\recorder\playwright-logo.svg
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\codeMirrorModule-CZTtn9l8.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\inspectorTab-DTusvprx.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\testServerConnection-DeE2kSzz.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\workbench-DIEjrm3Z.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\assets\xtermModule-BeNbaIVa.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\codeMirrorModule.ez37Vkbh.css
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\codicon.DCmgc-ay.ttf
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\embedded.Do_J5Hgs.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\embedded.html
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\embedded.w7WN2u1R.css
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\index.B21BXreT.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\index.CrbWWHbf.css
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\index.html
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\inspectorTab.DLjBDrQR.css
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\playwright-logo.svg
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\recorder.Bfh_9UGt.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\recorder.B_SY1GJM.css
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\recorder.html
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\snapshot.html
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\sw.bundle.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\uiMode.CAYqod-m.css
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\uiMode.DloKQa-h.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\uiMode.html
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\workbench.D3JVcA9K.css
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\vite\traceViewer\xtermModule.DSXBckUd.css
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\zipBundle.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\lib\zipBundleImpl.js
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\package.json
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\protocol.yml
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\README.md
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\ThirdPartyNotices.txt
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\types\protocol.d.ts
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\types\structs.d.ts
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\.playwright\package\types\types.d.ts
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\playwright.ps1
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\nunit.engine.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\nunit.engine.api.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\nunit.engine.core.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\testcentric.engine.metadata.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\appsettings.json
+C:\TestProjects\PlaywrightTests\bin\Debug\net8.0\PlaywrightTests.deps.json
+C:\TestProjects\PlaywrightTests\bin\Debug\net8.0\PlaywrightTests.runtimeconfig.json
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\PlaywrightTests.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\PlaywrightTests.pdb
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ExtentReports.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Playwright.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Playwright.NUnit.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Playwright.TestAdapter.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\nunit.framework.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\RazorEngine.NetCore.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\System.Reactive.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\TestProjects\PlaywrightTests\obj\Debug\net8.0\Playwrig.3B805853.Up2Date
+c:\TestProjects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.dll
+c:\TestProjects\PlaywrightTests\obj\Debug\net8.0\refint\PlaywrightTests.dll
+c:\TestProjects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.pdb
+C:\TestProjects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.genruntimeconfig.cache
+C:\TestProjects\PlaywrightTests\obj\Debug\net8.0\ref\PlaywrightTests.dll
+c:\TestProjects\PlaywrightTests\bin\Debug\net8.0\node_modules\axe-core\axe.min.js
