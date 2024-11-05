@@ -18,13 +18,14 @@ namespace PlaywrightTests
         public async Task UserLogin()
         {
             await _page.Locator(txt_username).FillAsync(Config.Username);
-            Thread.Sleep(5000);
+            await Task.Delay(3000);
             await _page.Locator(txt_password).FillAsync(Config.Password);
-            Thread.Sleep(5000);
+            await Task.Delay(3000);
             await _page.Locator(btn_loogin).ClickAsync();
-            Thread.Sleep(5000);
+            await Task.Delay(3000);
+
         }
-       
+
     }
 
 }

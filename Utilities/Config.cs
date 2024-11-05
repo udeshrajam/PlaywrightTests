@@ -13,8 +13,6 @@ namespace PlaywrightTests.Utilities
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
             configuration = builder.Build();
-
-            // Log to confirm if configuration is loaded
             Console.WriteLine("BaseUrl in config: " + configuration["BaseUrl"]);
             
         }
