@@ -65,7 +65,7 @@ namespace PlaywrightTests
 
                 Console.WriteLine($"Expected Product List for {sortOption}: {string.Join(", ", expectedPrices)}");
 
-                Console.WriteLine($"Expected Product List for {sortOption}: {string.Join(", ", uiProductPrices)}");
+                Console.WriteLine($"Actual Product List for {sortOption}: {string.Join(", ", uiProductPrices)}");
 
                 Assert.That(expectedPrices, Is.EqualTo(uiProductPrices), $"Product names are not sorted correctly for {sortOption}");
             }
